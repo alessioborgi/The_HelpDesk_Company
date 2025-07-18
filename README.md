@@ -2,7 +2,7 @@
 
 **Copyright © 2022 Alessio Borgi, Elena Muia**
 
-**PROJECT SCOPE**: Implementation of a Ticketing System, that embraces both the Database and the Application Side Implementation. This project builds a web-based help desk application designed to streamline customer support and issue tracking. This project includes features like ticket management, user authentication, and real-time updates to facilitate efficient communication between customers and support teams. Perfect for businesses looking to enhance their customer service operations.
+Implementation of a Ticketing System, that embraces both the Database and the Application Side Implementation. This project builds a web-based help desk application designed to streamline customer support and issue tracking. This project includes features like ticket management, user authentication, and real-time updates to facilitate efficient communication between customers and support teams. Perfect for businesses looking to enhance their customer service operations.
 
 **PROJECT RESULTS**:
 - PostgreSQL implementation modeling 59 HelpDesk Company entities.
